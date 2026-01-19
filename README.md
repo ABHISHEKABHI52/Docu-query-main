@@ -308,11 +308,11 @@ A huge thank you to everyone who contributed to making DocuHelper possible! 🎉
 | 🧑‍💼 Role | 👤 Name | 💡 Contribution |
 |----------|---------|-----------------|
 | 🎯 **Project Lead** | Abhishek | Vision, Architecture & Development |
-| 🤖 **AI Engineer** | Team Member | RAG System & AI Integration |
-| 🎨 **UI/UX Designer** | Team Member | Beautiful Interface Design |
-| 💻 **Frontend Dev** | Team Member | React Components & Animations |
-| 🔧 **Backend Dev** | Team Member | API Routes & Services |
-| 🧪 **QA Engineer** | Team Member | Testing & Quality Assurance |
+| 🤖 **AI Engineer** | Abhishek Kumar | RAG System & AI Integration |
+| 🎨 **UI/UX Designer** | Puja Kumari | Beautiful Interface Design |
+| 💻 **Frontend Dev** | Shweta Kumaari | React Components & Animations |
+| 🔧 **Backend Dev** | Puja/shweta | API Routes & Services |
+| 🧪 **QA Engineer** | Abhishek kumar | Testing & Quality Assurance |
 
 ### 🌟 Special Thanks
 
