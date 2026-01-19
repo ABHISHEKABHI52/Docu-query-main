@@ -83,8 +83,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/docu-query.git
-   cd docu-query
+   git clone https://github.com/ABHISHEKABHI52/Docu-query-main.git
+   cd Docu-query-main
    ```
 
 2. **Install dependencies**
@@ -109,6 +109,71 @@
    ```
    http://localhost:4321
    ```
+
+---
+
+## 🖥️ Execution Instructions
+
+### 💻 Running Locally (Step-by-Step)
+
+```bash
+# Step 1: Clone the repository
+git clone https://github.com/ABHISHEKABHI52/Docu-query-main.git
+
+# Step 2: Navigate to project folder
+cd Docu-query-main
+
+# Step 3: Install all dependencies
+npm install
+
+# Step 4: Start development server
+npm run dev
+
+# Step 5: Open browser at http://localhost:4321
+```
+
+### 🏗️ Build for Production
+
+```bash
+# Build the project
+npm run build
+
+# Preview production build
+npm run preview
+```
+
+### 🧪 Run Tests
+
+```bash
+npm run test
+```
+
+### 🔍 Lint Code
+
+```bash
+npm run lint
+```
+
+### ⚠️ Common Issues & Fixes
+
+| Issue | Solution |
+|-------|----------|
+| Port 4321 in use | Server auto-switches to 4322. Check terminal output. |
+| `npm install` fails | Delete `node_modules` folder and run `npm install` again |
+| API not working | Check `.env` file has correct API keys |
+| Module not found | Run `npm install` to ensure all dependencies are installed |
+
+### 🔑 API Keys Setup
+
+1. **OpenAI API Key:**
+   - Go to https://platform.openai.com/api-keys
+   - Create new secret key
+   - Add to `.env` as `PUBLIC_OPENAI_API_KEY=sk-...`
+
+2. **Google API Key (Optional):**
+   - Go to https://console.cloud.google.com
+   - Create credentials → API Key
+   - Add to `.env` as `PUBLIC_GOOGLE_API_KEY=AIza...`
 
 ---
 
